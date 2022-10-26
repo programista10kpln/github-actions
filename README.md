@@ -1,0 +1,20 @@
+
+  <h1>naglowek 1</h1>
+  <h2>naglowek 2</h2>
+  <p>paragraf 1</p>
+  <p>paragraf 2</p>
+  <a href="https://inf.ug.edu.pl/">instytut informatyki</a>
+  <a href="https://www.youtube.com/">youtube</a>
+  <table>
+    <tr>
+      <th>kolumna 1</th>
+      <th>kolumna 2</th>
+      <th>kolumna 3</th>
+    </tr>
+    <tr>
+      <td>dane 1</td>
+      <td>dane 2</td>
+      <td>dane 3</td>
+    </tr>
+  </table>
+  <img src="https://i.wpimg.pl/1280x/img.dobreprogramy.pl/Images/News/82423/a66cb3df-960b-4845-83ec-1062bc082354.jpg" alt="windows xp">
